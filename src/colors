@@ -1,0 +1,8 @@
+555 = 85, 85, 85 -> customBlackLightest
+464646 = 70, 70, 70 -> customBlackLight
+232323 = 35, 35, 35 -> customBlackRegular
+0, 0, 0 -> customBlackDark
+
+
+fff = 255, 255, 255 -> customWhiteLightest
+f2f2f2 = 242, 242, 242 -> customWhiteLight
