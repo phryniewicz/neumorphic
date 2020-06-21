@@ -35,7 +35,7 @@ function App() {
             </StyledButton>
           </div>
           <div style={{ marginRight: 20 }}>
-            <StyledButton cancelButton theme={theme} cancelButton>
+            <StyledButton cancelButton theme={theme}>
               <ButtonContent tabIndex='-1' style={{borderRadius: '50%'}} >&times;</ButtonContent>
             </StyledButton>
           </div>
